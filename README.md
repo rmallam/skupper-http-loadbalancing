@@ -84,6 +84,10 @@ while true; do curl `oc get route hello-world-frontend -o jsonpath='{.spec.host}
 ```
 Observe the response coming from cluster2 backend pods
 
+## Failover test
+
+![alt text](Skupperfailover.png?raw=true)
+
 ### On cluster2 terminal
 
 ```
