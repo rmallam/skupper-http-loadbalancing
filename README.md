@@ -86,7 +86,7 @@ Observe the response coming from cluster2 backend pods
 
 ## Failover test
 
-![alt text](Skupperfailover.png?raw=true)
+![alt text](skupperfailover.png?raw=true)
 
 ### On cluster2 terminal
 
