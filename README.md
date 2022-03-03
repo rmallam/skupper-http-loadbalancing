@@ -1,5 +1,7 @@
 # skupper-http-loadbalancing
 
+![alt text](Skupperhttploadbalancing.png?raw=true)
+
 ## Pre-requisites
 
     1. Two Kubernetes/Openshift Clusters
